@@ -4,6 +4,8 @@
 **susiesalce/susiesalce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Currently Learning:
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
